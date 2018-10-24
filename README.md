@@ -1,4 +1,4 @@
-# funcqueue
+# funcqueue-promise
 
 A queue for asynchronous functions
 
@@ -9,7 +9,7 @@ The module is written in ES5 but it requires "Promise" to be defined. Add a poly
 
 ### Import the module
 ```js
-const FunQueue = require('funqueue')
+const FunQueue = require('funqueue-promise')
 ```
 
 ### Create the queue
