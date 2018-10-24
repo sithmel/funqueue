@@ -14,7 +14,7 @@
     "functions",
     "queue"
   ],
-  "repository": "git@github.com:sithmel/funqueue.git",
+  "repository": "git@github.com:sithmel/funqueue-promise.git",
   "author": "Maurizio Lupo <maurizio.lupo@gmail.com>",
   "license": "MIT",
   "devDependencies": {
